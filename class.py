@@ -1,6 +1,6 @@
 class Foo:
     def Bar(self):
-        print ('Bar')
+        print ('BarTest')
 
     def Hello(self, name):
         print( 'hello my name is %s' % name)
