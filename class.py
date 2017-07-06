@@ -7,4 +7,4 @@ class Foo:
 
 obj = Foo()
 obj.Bar()  
-obj.Hello('wupeiqi')
+obj.Hello('Yaolu')
