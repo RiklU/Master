@@ -3,7 +3,7 @@ class Foo:
         print ('Bar')
 
     def Hello(self, name):
-        print( 'i am %s' % name)
+        print( 'hello my name is %s' % name)
 
 obj = Foo()
 obj.Bar()  
