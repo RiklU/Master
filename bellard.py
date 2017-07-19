@@ -15,6 +15,8 @@ if __name__=="__main__":
     instan=Value();
     x=instan.bellardBig(2);
     print ("3.141765873015873015873015873");
+    # print the digit that required
+    print( '%.4f' % x)
     print(x)
 
 
