@@ -1,7 +1,7 @@
 
 from decimal import *
 class Value:
-    def bellardBig(self,n): #http://en.wikipedia.org/wiki/Bellard%27s_formula
+    def bellardBig(self,n):
         pi = Decimal(0)
         k = 0
         while k < n:
